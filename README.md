@@ -1,0 +1,2 @@
+# jinpic
+image bed
